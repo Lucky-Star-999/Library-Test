@@ -18,6 +18,8 @@ public class TestNewFrame {
         // TODO code application logic here
 
         System.out.println("Hello, I am Linh");
+		
+		//Tạo thử một đoạn code như này nhe System.out.println("Hi, I am Minh");
     }
     
 }
